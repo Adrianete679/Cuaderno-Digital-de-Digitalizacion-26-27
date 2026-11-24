@@ -8,4 +8,6 @@ En 2009, James Howells consiguió bitcoins cuando todavía eran muy poco conocid
 # El hombre que perdió 800 bitcoins al formatear un ordenador
 Gabriel Abed tenía guardadas las claves de acceso a unos 800 bitcoins en un ordenador. En 2011, pidió a un compañero que formateara el ordenador para solucionar unos problemas técnicos. Nadie había guardado una copia de seguridad de las claves. Al formatear el equipo, las claves desaparecieron y Abed perdió el acceso a sus bitcoins.
 # El robo de 1,7 millones de dólares fotografiando una contraseña
+<img width="690" height="360" alt="image1" src="https://github.com/user-attachments/assets/2e0a28ff-7011-44f5-a707-739fd62f03ab" />
+
 Un hombre consiguió entrar en el domicilio de otra persona y fotografió en secreto un papel donde estaba escrita la frase de recuperación de su monedero de criptomonedas. Esa frase funcionaba como una llave maestra: permitía acceder al dinero. Al día siguiente, utilizó la información para robar aproximadamente 1,7 millones de dólares en criptomonedas. El ladrón terminó reconociendo los hechos ante la justicia.
